@@ -100,8 +100,8 @@ header .links a {
 .info img {
     border: 1px solid #3882F6;
     border-radius: 5px 5px 5px 5px;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
 }
 
 .info .box {
